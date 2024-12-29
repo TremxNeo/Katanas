@@ -1,0 +1,18 @@
+katanas:
+  copper: Kupferkatana
+  diamond: Diamantkatana
+  golden: Goldeneskatana
+  iron: Eisenkatana
+  stone: Steinkatana
+  wooden: Holtzkatana
+light-katanas:
+  copper: Leichtes Kupferkatana
+  diamond: Leichtes Diamantkatana
+  golden: Leichtes Goldeneskatana
+  iron: Leichtes Eisenkatana
+  stone: Leichtes Steinkatana
+  wooden: Leichtes Holtzkatana
+item_description:
+  in_main_hand: "In der Haupt-Hand:"
+  att_damage: " Angriffsschaden"
+  att_speed: " Angriffsgeschwindigkeit"

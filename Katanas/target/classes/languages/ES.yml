@@ -1,0 +1,18 @@
+katanas:
+  copper: Katana de cobre
+  diamond: Katana de diamante
+  golden: Katana de oro
+  iron: Katana de hierro
+  stone: Katana de de piedra
+  wooden: Katana de madera
+light-katanas:
+  copper: Katana ligera de cobre
+  diamond: Katana ligera de diamante
+  golden: Katana ligera de oro
+  iron: Katana ligera de hierro
+  stone: Katana ligera de de piedra
+  wooden: Katana ligera de madera
+item_description:
+  in_main_hand: "El la mano principal:"
+  att_damage: " Daño de ataque"
+  att_speed: " Velocidad de ataque"

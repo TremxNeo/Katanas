@@ -1,0 +1,18 @@
+katanas:
+  copper: Мідна Катана
+  diamond: Діамантова Катана
+  golden: Золота Катана
+  iron: Залізна Катана
+  stone: Кам'яна катана
+  wooden: Дерев'яна катана
+light-katanas:
+  copper: Легка Мідна Катана
+  diamond: Легка Діамантова Катана
+  golden: Легка Золота Катана
+  iron: Легка Залізна Катана
+  stone: Легка Кам'яна катана
+  wooden: Легка Дерев'яна катана
+item_description:
+  in_main_hand: "Коли в основній руці:"
+  att_damage: " Шкоди при атаці"
+  att_speed: " Швидкість атаки"
