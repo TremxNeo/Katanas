@@ -28,14 +28,14 @@ public class Netherite extends JavaPlugin {
         ItemStack item = new ItemStack(Material.NETHERITE_SWORD, 1);
         ItemMeta im = item.getItemMeta();
         assert im != null;
-        im.setDisplayName(ChatColor.DARK_PURPLE + Katanas.getCurrentLang().getString("katanas.netherite"));
+        im.setDisplayName(ChatColor.DARK_PURPLE + "Black Shard");
         im.setLocalizedName("netherite_katana");
         im.setCustomModelData(8);
         im.addItemFlags(ItemFlag.HIDE_ATTRIBUTES);
 
         List<String> lore = new ArrayList<>();
 
-        lore.add("");
+        lore.add("This mere shard holds unbelieveble power");
         lore.add(ChatColor.GRAY + Katanas.getCurrentLang().getString("item_description.in_main_hand"));
         String attackDamage = String.valueOf(config.getDouble("katanas.netherite.attack-damage"));
         String attackSpeed = String.valueOf(config.getDouble("katanas.netherite.attack-speed"));
