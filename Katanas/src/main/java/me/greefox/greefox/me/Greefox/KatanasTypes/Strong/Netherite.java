@@ -35,7 +35,7 @@ public class Netherite extends JavaPlugin {
 
         List<String> lore = new ArrayList<>();
 
-        lore.add("This mere shard holds unbelieveble power");
+        lore.add("This mere shard holds unbelievable power");
         lore.add(ChatColor.GRAY + Katanas.getCurrentLang().getString("item_description.in_main_hand"));
         String attackDamage = String.valueOf(config.getDouble("katanas.netherite.attack-damage"));
         String attackSpeed = String.valueOf(config.getDouble("katanas.netherite.attack-speed"));
