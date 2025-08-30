@@ -30,7 +30,7 @@ public class Netherite extends JavaPlugin {
         assert im != null;
         im.setDisplayName(ChatColor.DARK_PURPLE + "Black Shard");
         im.setLocalizedName("netherite_katana");
-        im.setCustomModelData(8);
+        im.setCustomModelData(28042005);
         im.addItemFlags(ItemFlag.HIDE_ATTRIBUTES);
 
         List<String> lore = new ArrayList<>();
